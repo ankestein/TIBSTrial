@@ -1,6 +1,6 @@
 ---
 title: "TIBS trial page"
-author: "Anke Stein"
+author: "Jane Doe"
 date: "2026-10-15"
 output: html_document
 ---
