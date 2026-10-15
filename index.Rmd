@@ -1,5 +1,5 @@
 ---
-title: "TIBS-trial.Rmd"
+title: "TIBS trial page"
 author: "Anke Stein"
 date: "2026-10-15"
 output: html_document
